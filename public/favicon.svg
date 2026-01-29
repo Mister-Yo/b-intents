@@ -1,4 +1,7 @@
 <svg width="567" height="567" viewBox="0 0 567 567" fill="none" xmlns="http://www.w3.org/2000/svg">
 <rect width="567" height="567" rx="66.7059" fill="#3B82F6"/>
-<text x="283.5" y="420" text-anchor="middle" font-family="Rubik, sans-serif" font-weight="600" font-size="400" fill="white">i</text>
+<!-- Arrow up (left side) -->
+<path d="M200 370 L200 197 L145 252" stroke="white" stroke-width="42" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+<!-- Arrow down (right side) -->
+<path d="M367 197 L367 370 L422 315" stroke="white" stroke-width="42" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
 </svg>
