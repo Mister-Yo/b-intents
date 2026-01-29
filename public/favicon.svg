@@ -1,7 +1,12 @@
 <svg width="567" height="567" viewBox="0 0 567 567" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_6_19)">
 <rect width="567" height="567" rx="66.7059" fill="#3B82F6"/>
-<!-- Arrow up (left side) -->
-<path d="M200 370 L200 197 L145 252" stroke="white" stroke-width="42" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
-<!-- Arrow down (right side) -->
-<path d="M367 197 L367 370 L422 315" stroke="white" stroke-width="42" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M214.354 467.335C201.834 467.335 191.674 457.174 191.674 444.655V175.262L115.877 230.125C105.717 237.496 91.5188 235.205 84.1932 225.045C76.8676 214.907 79.1356 200.732 89.2735 193.383L201.063 112.484C207.958 107.471 217.121 106.791 224.673 110.647C232.271 114.525 237.034 122.35 237.034 130.855V444.655C237.034 457.174 226.873 467.335 214.354 467.335Z" fill="white"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M353.646 467.355C350.13 467.355 346.592 466.539 343.326 464.883C335.729 461.005 330.966 453.203 330.966 444.675V130.853C330.966 118.333 341.126 108.173 353.646 108.173C366.165 108.173 376.326 118.333 376.326 130.853V400.268L452.122 345.36C462.283 338.011 476.458 340.279 483.806 350.44C491.132 360.578 488.864 374.753 478.726 382.101L366.936 463.046C363.013 465.904 358.341 467.355 353.646 467.355Z" fill="white"/>
+</g>
+<defs>
+<clipPath id="clip0_6_19">
+<rect width="567" height="567" fill="white"/>
+</clipPath>
+</defs>
 </svg>

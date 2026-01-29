@@ -213,9 +213,8 @@ const SwapForm: FC<Props> = observer(({ isSubmitting, onSubmit }) => {
       >
         {/* Header */}
         <div className="mb-5 flex items-center justify-between">
-          <a href="/" className="group flex cursor-pointer select-none items-center gap-2">
-            <div className="size-5 rounded-[4px] bg-[#3B82F6] animate-[spin-step_2s_steps(4)_infinite]" />
-            <span className="font-semibold text-lg text-white tracking-tight transition-opacity duration-200 group-hover:opacity-80">intents</span>
+          <a href="/" className="group flex cursor-pointer select-none items-center">
+            <img src="/logo-full.svg" alt="intents" className="h-6 transition-opacity duration-200 group-hover:opacity-80" />
           </a>
           {address ? (
             <DropdownMenu>

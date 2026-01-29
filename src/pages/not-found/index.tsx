@@ -14,7 +14,7 @@ const NotFoundPage = () => {
       <div className="fixed inset-0 flex flex-col items-center justify-center gap-6 bg-[#0a0a0a] px-4">
         <a href="/">
           <img
-            src="/b-intents.svg"
+            src="/logo-full.svg"
             alt="Intents"
             className="h-[36px] opacity-40 transition-opacity hover:opacity-70"
           />
