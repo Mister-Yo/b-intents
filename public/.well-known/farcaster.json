@@ -9,17 +9,17 @@
     "name": "Intents",
     "homeUrl": "https://b-intents.vercel.app",
     "iconUrl": "https://b-intents.vercel.app/favicon.svg",
-    "splashImageUrl": "https://b-intents.vercel.app/nearintents.svg",
+    "splashImageUrl": "https://b-intents.vercel.app/b-intents.svg",
     "splashBackgroundColor": "#0a0a0a",
-    "subtitle": "Cross-chain swaps",
-    "description": "Swap, bridge and trade crypto tokens across all blockchains. Bitcoin, NEAR, Solana, Ethereum, Base, Arbitrum, and more.",
+    "subtitle": "Cross-chain swaps on Base",
+    "description": "Swap, bridge and trade crypto tokens across all blockchains. Base, Ethereum, Solana, Bitcoin, Arbitrum, and more.",
     "primaryCategory": "finance",
     "tags": ["swap", "defi", "base", "cross-chain", "bridge"],
-    "heroImageUrl": "https://b-intents.vercel.app/nearintents.svg",
+    "heroImageUrl": "https://b-intents.vercel.app/b-intents.svg",
     "tagline": "Swap across any chain using intents",
-    "ogTitle": "Intents - Cross-Chain Swaps",
+    "ogTitle": "Intents - Cross-Chain Swaps on Base",
     "ogDescription": "Swap, bridge and trade crypto tokens across all blockchains.",
-    "ogImageUrl": "https://b-intents.vercel.app/nearintents.svg",
+    "ogImageUrl": "https://b-intents.vercel.app/b-intents.svg",
     "noindex": false
   }
 }

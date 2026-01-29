@@ -16,19 +16,19 @@ const Swap = observer(() => {
   return (
     <>
       <Helmet>
-        <title>NEAR Intents - The Universal Trading Protocol</title>
+        <title>Intents - Cross-Chain Swaps on Base</title>
         <meta
           name="description"
-          content="Swap, bridge and trade crypto tokens across all blockchains. Bitcoin, NEAR, Solana, Ethereum, Base, Arbitrum, and Tron."
+          content="Swap, bridge and trade crypto tokens across all blockchains. Base, Ethereum, Solana, Bitcoin, Arbitrum, and more."
         />
-        <meta property="og:title" content="NEAR Intents - The Universal Trading Protocol" />
+        <meta property="og:title" content="Intents - Cross-Chain Swaps on Base" />
         <meta
           property="og:description"
-          content="Swap, bridge and trade crypto tokens across all blockchains. Bitcoin, NEAR, Solana, Ethereum, Base, Arbitrum, and Tron."
+          content="Swap, bridge and trade crypto tokens across all blockchains. Base, Ethereum, Solana, Bitcoin, Arbitrum, and more."
         />
-        <meta property="og:url" content="https://nearintents.io" />
+        <meta property="og:url" content="https://b-intents.vercel.app" />
         <meta property="og:type" content="website" />
-        <link rel="canonical" href="https://nearintents.io" />
+        <link rel="canonical" href="https://b-intents.vercel.app" />
       </Helmet>
       <Paper>
         <SwapWidget

@@ -56,7 +56,7 @@ const SwapPairPage = observer(() => {
     parsed.to.blockchain,
   );
 
-  const canonicalUrl = `https://nearintents.io/swap/${pair}`;
+  const canonicalUrl = `https://b-intents.vercel.app/swap/${pair}`;
 
   return (
     <>
