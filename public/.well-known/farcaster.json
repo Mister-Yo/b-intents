@@ -7,19 +7,19 @@
   "miniapp": {
     "version": "1",
     "name": "NEAR Intents",
-    "homeUrl": "https://intents-base.vercel.app",
-    "iconUrl": "https://intents-base.vercel.app/favicon.svg",
-    "splashImageUrl": "https://intents-base.vercel.app/nearintents.svg",
+    "homeUrl": "https://b-intents.vercel.app",
+    "iconUrl": "https://b-intents.vercel.app/favicon.svg",
+    "splashImageUrl": "https://b-intents.vercel.app/nearintents.svg",
     "splashBackgroundColor": "#0a0a0a",
     "subtitle": "Cross-chain swaps",
     "description": "Swap, bridge and trade crypto tokens across all blockchains. Bitcoin, NEAR, Solana, Ethereum, Base, Arbitrum, and more.",
     "primaryCategory": "finance",
     "tags": ["swap", "defi", "near", "cross-chain", "bridge"],
-    "heroImageUrl": "https://intents-base.vercel.app/nearintents.svg",
+    "heroImageUrl": "https://b-intents.vercel.app/nearintents.svg",
     "tagline": "Swap across any chain",
     "ogTitle": "NEAR Intents - Cross-Chain Swaps",
     "ogDescription": "Swap, bridge and trade crypto tokens across all blockchains.",
-    "ogImageUrl": "https://intents-base.vercel.app/nearintents.svg",
+    "ogImageUrl": "https://b-intents.vercel.app/nearintents.svg",
     "noindex": false
   }
 }
