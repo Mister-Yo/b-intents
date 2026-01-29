@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://nearintents.io/</loc>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <!-- Major native-to-native swaps -->
+  <url><loc>https://nearintents.io/swap/eth-to-near</loc><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://nearintents.io/swap/near-to-eth</loc><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://nearintents.io/swap/eth-to-sol</loc><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://nearintents.io/swap/sol-to-eth</loc><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://nearintents.io/swap/eth-to-btc</loc><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://nearintents.io/swap/btc-to-eth</loc><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://nearintents.io/swap/near-to-sol</loc><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://nearintents.io/swap/sol-to-near</loc><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://nearintents.io/swap/near-to-btc</loc><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://nearintents.io/swap/btc-to-near</loc><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://nearintents.io/swap/sol-to-btc</loc><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://nearintents.io/swap/btc-to-sol</loc><changefreq>weekly</changefreq><priority>0.9</priority></url>
+
+  <!-- USDC cross-chain -->
+  <url><loc>https://nearintents.io/swap/eth-usdc-to-sol-usdc</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://nearintents.io/swap/sol-usdc-to-eth-usdc</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://nearintents.io/swap/eth-usdc-to-near-usdc</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://nearintents.io/swap/near-usdc-to-eth-usdc</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://nearintents.io/swap/eth-usdc-to-base-usdc</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://nearintents.io/swap/base-usdc-to-eth-usdc</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://nearintents.io/swap/eth-usdc-to-arb-usdc</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://nearintents.io/swap/arb-usdc-to-eth-usdc</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://nearintents.io/swap/sol-usdc-to-near-usdc</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+
+  <!-- USDT cross-chain -->
+  <url><loc>https://nearintents.io/swap/eth-usdt-to-sol-usdt</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://nearintents.io/swap/near-usdt-to-sol-usdc</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://nearintents.io/swap/near-usdt-to-eth-usdc</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://nearintents.io/swap/eth-usdt-to-near-usdt</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+
+  <!-- Native to stablecoins -->
+  <url><loc>https://nearintents.io/swap/eth-to-eth-usdc</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://nearintents.io/swap/eth-to-eth-usdt</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://nearintents.io/swap/near-to-near-usdc</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://nearintents.io/swap/near-to-near-usdt</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://nearintents.io/swap/sol-to-sol-usdc</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://nearintents.io/swap/sol-to-sol-usdt</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://nearintents.io/swap/btc-to-eth-usdc</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://nearintents.io/swap/btc-to-sol-usdc</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+
+  <!-- Stablecoins to native -->
+  <url><loc>https://nearintents.io/swap/eth-usdc-to-eth</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://nearintents.io/swap/eth-usdc-to-near</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://nearintents.io/swap/eth-usdc-to-sol</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://nearintents.io/swap/eth-usdc-to-btc</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://nearintents.io/swap/sol-usdc-to-sol</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://nearintents.io/swap/sol-usdc-to-near</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+
+  <!-- Cross-chain native to stablecoins -->
+  <url><loc>https://nearintents.io/swap/eth-to-sol-usdc</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://nearintents.io/swap/eth-to-near-usdc</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://nearintents.io/swap/sol-to-eth-usdc</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://nearintents.io/swap/near-to-eth-usdc</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://nearintents.io/swap/near-to-sol-usdc</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+
+  <!-- BNB / Polygon pairs -->
+  <url><loc>https://nearintents.io/swap/bnb-to-eth</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://nearintents.io/swap/eth-to-bnb</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://nearintents.io/swap/bnb-to-eth-usdc</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://nearintents.io/swap/pol-to-eth</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://nearintents.io/swap/eth-to-pol</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+
+  <!-- Alt chains -->
+  <url><loc>https://nearintents.io/swap/doge-to-eth</loc><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://nearintents.io/swap/doge-to-sol</loc><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://nearintents.io/swap/xrp-to-eth</loc><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://nearintents.io/swap/xrp-to-sol</loc><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://nearintents.io/swap/ton-to-eth</loc><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://nearintents.io/swap/ton-to-sol</loc><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://nearintents.io/swap/avax-to-eth</loc><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://nearintents.io/swap/ltc-to-eth</loc><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://nearintents.io/swap/ltc-to-btc</loc><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://nearintents.io/swap/sui-to-eth</loc><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://nearintents.io/swap/sui-to-sol</loc><changefreq>weekly</changefreq><priority>0.6</priority></url>
+</urlset>
