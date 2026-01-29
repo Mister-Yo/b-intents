@@ -136,6 +136,15 @@
   }
 }
 
+@keyframes spin-step {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}
+
 @keyframes pulse-line {
   0% {
     stroke-dashoffset: 400;
